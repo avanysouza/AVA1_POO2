@@ -47,7 +47,7 @@ As classes foram planejadas usando **particionamento** (separação de atributos
 
 O diagrama de classes ilustra a **hierarquia, herança e agregação** entre as classes do projeto:
 
-<img width="3840" height="1932" alt="DiagramaPoo" src="https://github.com/user-attachments/assets/0132281c-6083-4b43-ba2d-18a13173aa31" />
+<img width="3840" height="2064" alt="Diagrama" src="https://github.com/user-attachments/assets/19990c54-168a-4020-85df-5138dd8bdc15" />
 
 
 O diagrama mostra a relação entre **Computador**, **Desktop**, **Notebook** e **Servidor**, bem como os atributos e métodos principais de cada classe.
