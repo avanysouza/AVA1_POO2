@@ -65,4 +65,4 @@ O diagrama mostra a relação entre **Computador**, **Desktop**, **Notebook** e 
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/avanysouza/Projeto_LojaComputadores
+   git clone https://github.com/avanysouza/AVA1_POO2
